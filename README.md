@@ -11,5 +11,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN technology
 - 👯 I’m looking to collaborate on development projects
 
-💫 About Me:
+## About Me: 👋
+HELLO, I'M KANHAIYA
+A PROFESSIONAL PHP DEVELOPER
+I am not limited to specific technologies but interested in working on rapid software development and evolution. I am a continuous learner – always looking for new technologies, Working with Laravel, JavaScript, html5, css3, and many more technologies.
 
