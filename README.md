@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN technology
 - 👯 I’m looking to collaborate on development projects
 
-## About Me:
+💫 About Me:
 
