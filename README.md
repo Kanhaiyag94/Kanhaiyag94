@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 
 ## About Me: 👋
 <b>HELLO, I'M KANHAIYA</b> </br>
-A PROFESSIONAL PHP DEVELOPER
+A PROFESSIONAL PHP DEVELOPER</br>
 I am not limited to specific technologies but interested in working on rapid software development and evolution. I am a continuous learner – always looking for new technologies, Working with Laravel, JavaScript, html5, css3, and many more technologies.
 
+💬 Ask me about: </br>
+JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions. </br>
+
+⚡ Fun fact: </br>
+I love creating web Apps.
