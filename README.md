@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on development projects
 
 ## About Me: 👋
-HELLO, I'M KANHAIYA </br>
+<b>HELLO, I'M KANHAIYA</b> </br>
 A PROFESSIONAL PHP DEVELOPER
 I am not limited to specific technologies but interested in working on rapid software development and evolution. I am a continuous learner – always looking for new technologies, Working with Laravel, JavaScript, html5, css3, and many more technologies.
 
